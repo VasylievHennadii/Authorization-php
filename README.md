@@ -1,1 +1,1 @@
-# Authorization-php
+# Authorization and Registration in PHP
