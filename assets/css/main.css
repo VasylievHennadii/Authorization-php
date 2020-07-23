@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -43,12 +43,20 @@ button {
     cursor: pointer;
 }
 
+.error {
+    border-bottom: 2px solid #ff4332;
+}
+
 .msg {
     border: 2px solid #ffa908;
     border-radius: 3px;
     padding: 10px;
     text-align: center;
     font-weight: bold;
+}
+
+.none {
+    display: none;
 }
 
 .logout {
